@@ -1,0 +1,30 @@
+{
+  "totalJoyas": 6,
+  "stockTotal": 27,
+  "results": [
+    {
+      "name": "Collar Heart",
+      "href": "/joyas/joya/1"
+    },
+    {
+      "name": "Collar History",
+      "href": "/joyas/joya/2"
+    },
+    {
+      "name": "Aros Berry",
+      "href": "/joyas/joya/3"
+    },
+    {
+      "name": "Aros Hook Blue",
+      "href": "/joyas/joya/4"
+    },
+    {
+      "name": "Anillo Wish",
+      "href": "/joyas/joya/5"
+    },
+    {
+      "name": "Anillo Cuarzo Greece",
+      "href": "/joyas/joya/6"
+    }
+  ]
+}

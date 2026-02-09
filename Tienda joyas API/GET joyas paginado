@@ -1,0 +1,18 @@
+{
+  "totalJoyas": 6,
+  "stockTotal": 27,
+  "results": [
+    {
+      "name": "Anillo Wish",
+      "href": "/joyas/joya/5"
+    },
+    {
+      "name": "Collar History",
+      "href": "/joyas/joya/2"
+    },
+    {
+      "name": "Aros Berry",
+      "href": "/joyas/joya/3"
+    }
+  ]
+}
